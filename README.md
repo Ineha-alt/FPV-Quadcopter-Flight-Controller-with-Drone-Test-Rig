@@ -1,6 +1,6 @@
 # Design of FPV Quadcopter Flight Controller with Drone Test Rig
 
-![Drone Test Rig](Fabricated_Drone_Test_Rig/Fabricated_Drone_Test_Rig_1.jpeg)
+![Drone Test Rig](Fabricated_Drone_Test_Rig/Fabricated_Drone_Test_Rig_2.jpeg)
 
 ## Overview
 
